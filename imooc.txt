@@ -1,0 +1,630 @@
+用法 url加上pid
+url:http://www.imooc.com/course/programdetail/pid/
+例如：http://www.imooc.com/course/programdetail/pid/3
+
+pid：3    路径名：Web前端工程师成长第一阶段(基础篇)
+   第一步 了解HTML和CSS
+      HTML+CSS基础课程
+      前端开发工具技巧介绍—DW篇
+   第二步 学习JavaScript
+      JavaScript入门篇
+      JavaScript进阶篇
+   第三步 学习jQuery
+      jQuery基础 (一)—样式篇
+      jQuery基础(二)—DOM篇
+      jQuery基础(三)—事件篇
+      jQuery基础(四)—动画篇
+      网页定位导航特效
+   第四步 上手实践
+      信息排列效果
+      Tab选项卡切换效果
+      企业网站综合布局实战
+
+pid：11    路径名：PHP开发工程师闯关记--初识PHP
+   第一关 PHP基础入门
+      PHP入门篇
+      PHP进阶篇
+      HTML+CSS基础课程
+   第二关 PHP基础应用
+      WEB在线文件管理器
+      PHP与MySQL关系大揭秘
+      PHP实现验证码制作
+      PHP面向对象编程
+   第三关 PHP应用进阶
+      JSON应用场景与实战
+      手把手教你实现电商网站后台开发
+      MVC架构模式分析与设计
+
+pid：17    路径名：从0开始学习制作QQ侧滑菜单
+   先入门！再说其它
+      Android攻城狮的第一门课（入门篇）
+   制作菜单技能准备
+      Android UI模板设计
+      Android属性动画赏析
+   万事俱备只欠东风
+      QQ5.0侧滑菜单
+
+pid：18    路径名：模式宗师养成宝典之Java版
+   创建型模式
+      模式的秘密---单例模式
+      模式的秘密——工厂模式
+   结构型模式
+      模式的秘密---代理模式
+      模式的秘密---适配器模式
+   行为型模式
+      观察者模式
+      模式的秘密---责任链模式
+      模式的秘密--策略模式
+      模式的秘密---模板方法模式
+
+pid：20    路径名：jQuery源码探索之旅
+   奠定JavaScript基础
+      JavaScript入门篇
+      JavaScript进阶篇
+   必学jQuery框架
+      jQuery基础 (一)—样式篇
+      jQuery基础(二)—DOM篇
+      jQuery基础(三)—事件篇
+      jQuery基础(四)—动画篇
+   深入剖析JQuery源码
+      jQuery源码解析（架构与依赖模块）
+      jQuery源码解析（DOM与核心模块）
+
+pid：21    路径名：电商网站全站开发攻略
+   时刻准备着
+      PHP入门篇
+      HTML+CSS基础课程
+      JavaScript入门篇
+   打通业务逻辑与数据
+      与MySQL的零距离接触
+      PHP进阶篇
+      PHP与MySQL关系大揭秘
+   动起来
+      手把手教你实现电商网站开发
+      手把手教你实现电商网站后台开发
+
+pid：22    路径名：响应式布局那些事
+   奠定基础
+      玩转Bootstrap（基础）
+      玩转Bootstrap（JS插件篇）
+   动手实践
+      基于bootstrap的网页开发
+   响应式开发
+      响应式布局
+
+pid：23    路径名：搞定Java加解密
+   基础与单向加密
+      Java实现Base64加密
+      Java实现消息摘要算法加密
+   复杂的对称、非对称加密
+      JAVA实现对称加密
+      JAVA实现非对称加密
+   “高大上”的数字签名
+      Java实现数字签名
+
+pid：24    路径名：Android加薪利器--自定义View
+   出发之前，准备行囊！
+      超快的Android模拟器Genymotion
+   稳扎稳打，为成功铺路！
+      Android UI模板设计
+   多学一点，以备不时之需！
+      Android图像处理-打造美图秀秀从它开始
+      Android图像处理-变"换"莫测的图像
+      Android属性动画赏析
+   最后一搏！
+      Android实现卫星菜单
+      Android自定义任意层级树形控件
+
+pid：26    路径名：前端经典案例集萃之“图片、信息展示”
+   图片展示
+      CSS3绚丽照片墙
+      Tab选项卡切换效果
+      图片展示特效
+      焦点图轮播特效
+      瀑布流布局
+   信息展示
+      信息排列效果
+      信息列表制作
+      信息滚动效果制作
+
+pid：27    路径名：从零开始学习ThinkPHP框架
+   夯实基础
+      HTML+CSS基础课程
+      PHP入门篇
+      与MySQL的零距离接触
+   开发进阶
+      PHP进阶篇
+      PHP面向对象编程
+      PHP与MySQL关系大揭秘
+   初识模板引擎
+      MVC架构模式分析与设计
+      PHP实现页面静态化
+   框架全接触
+      快速入门ThinkPHP框架—理论篇
+
+pid：28    路径名：高德开发者必由之路——JS API篇
+   夯实基础之HTML、CSS
+      HTML+CSS基础课程
+   夯实基础之JavaScript
+      JavaScript入门篇
+      JavaScript进阶篇
+      JavaScript深入浅出
+   初探WEB组件开发
+      阿当大话西游之WEB组件
+   变身高德开发者
+      如何使用高德JS-API进行基于LBS的开发
+
+pid：29    路径名：高德开发者必由之路——Android SDK篇
+   熟悉语言基础
+      Java入门第一季
+      Java入门第二季
+      Java入门第三季
+   Java工具箱
+      Java实现Base64加密
+      深入浅出Java多线程
+      反射——Java高级开发必须懂的
+   了解Android开发
+      Android攻城狮的第一门课（入门篇）
+      与Android Studio的第一次亲密接触
+   准备剖析高德地图Android SDK
+      Android攻城狮的第二门课（第3季）
+      Android UI模板设计
+      Android面试常客Handler详解
+   变身高德开发者
+      如何使用高德Android SDK进行LBS的开发
+
+pid：31    路径名：Java工程师
+   入门必学
+      Java入门第一季
+      Java入门第二季
+      Java入门第三季
+      二进制基础
+      文件传输基础——Java IO流
+      Java眼中的XML---文件读取
+      Java眼中的XML 文件写入
+      Java Socket应用---通信是这样练成的
+      深入浅出Java多线程
+      与MySQL的零距离接触
+      Oracle数据库开发必备利器之SQL基础
+      JDBC之 “ 对岸的女孩看过来”
+   Web初识
+      HTML+CSS基础课程
+      JavaScript入门篇
+      JavaScript进阶篇
+      JAVA遇见HTML——JSP篇
+      Java Web开发技术应用——过滤器
+      JAVA遇见HTML——Servlet篇
+      JAVA Web开发技术应用——监听器
+      使用JSP+Servlet技术生成报表
+      Java实现验证码制作
+   框架与工具
+      反射——Java高级开发必须懂的
+      全面解析Java注解
+      Hibernate初探之单表映射
+      Hibernate初探之一对多映射
+      HQL数据查询基础
+      通过自动回复机器人学Mybatis---基础版
+      通过自动回复机器人学Mybatis---加强版
+      Struts2入门
+      Struts2拦截器浅析
+      Spring入门篇
+      Spring事务管理
+      Spring MVC起步
+      Spring MVC拦截器
+      版本管理工具介绍---SVN篇
+      JUnit—Java单元测试必备工具
+      项目管理利器——maven
+   项目实战
+      Java中的文件上传下载
+      Java 分页原理与实践（上）
+      使用Struts2+Hibernate开发学生信息管理功能
+
+pid：32    路径名：Web前端工程师
+   HTML和CSS基础
+      前端开发工具技巧介绍—DW篇
+      前端开发工具技巧介绍—Sublime篇
+      HTML+CSS基础课程
+      如何用CSS进行网页布局
+      网页简单布局之结构与表现原则
+      导航条菜单的制作
+   JavaScript语言
+      JavaScript入门篇
+      JavaScript进阶篇
+      DOM事件探秘
+      JS动画效果
+      倒计时效果
+      信息滚动效果制作
+      商城分类导航效果
+   jQuery
+      jQuery基础 (一)—样式篇
+      jQuery基础(二)—DOM篇
+      jQuery基础(三)—事件篇
+      jQuery基础(四)—动画篇
+      jQuery插件——Validation Plugin
+      Ajax全接触
+      网页定位导航特效
+      瀑布流布局
+      搜索框制作
+   综合网站实践
+      企业网站综合布局实战
+      手把手教你实现电商网站开发
+   优化及调试
+      SEO在网页制作中的应用
+      Yahoo军规
+      WEB调试工具---Firebug
+
+pid：33    路径名：Android工程师
+   敲门砖
+      Java入门第一季
+      Java入门第二季
+   初级认知
+      Android攻城狮的第一门课（入门篇）
+   核心知识
+      Android攻城狮的第二门课（第1季）
+      Android必学-BaseAdapter的使用与优化
+      Android必学-AsyncTask基础
+      Android必学-异步加载
+      Android攻城狮的第二门课（第3季）
+      Android面试常客Handler详解
+      Android中的Http通信
+   浅学详解
+      Android攻城狮的第二门课（第2季）
+      浅谈Android动画
+      Android属性动画赏析
+   面试加分
+      千变万化的ViewPager切换动画
+      高仿微信5.2.1主界面及消息提醒
+      多种多样的App主界面Tab实现方法
+      与Android Studio的第一次亲密接触
+      超快的Android模拟器Genymotion
+
+pid：34    路径名：PHP工程师
+   入门必学
+      HTML+CSS基础课程
+      JavaScript入门篇
+      JavaScript进阶篇
+      Linux达人养成计划 I
+      PHP入门篇
+   数据库技术
+      与MySQL的零距离接触
+      PHP与MySQL关系大揭秘
+      Duang~MySQLi扩展库来袭
+      PDO—数据库抽象层
+   PHP进阶
+      PHP进阶篇
+      GD库实现图片水印与缩略图
+      PHP实现验证码制作
+      PHP实现文件上传与下载
+      jQuery基础 (一)—样式篇
+      jQuery基础(二)—DOM篇
+      jQuery基础(三)—事件篇
+      jQuery基础(四)—动画篇
+      手把手教你实现电商网站开发
+      手把手教你实现电商网站后台开发
+   框架技术
+      MVC架构模式分析与设计
+      快速入门ThinkPHP框架—理论篇
+      与《Yii框架》不得不说的故事—基础篇
+      与《Yii框架》不得不说的故事—高效篇
+      与《Yii框架》不得不说的故事—安全篇
+      与《Yii框架》不得不说的故事—扩展篇
+      与《Yii框架》不得不说的故事—工具篇
+      从零开始打造自己的PHP框架
+
+pid：35    路径名：前端经典案例集萃之 "网页常用特效"
+   导航类
+      形形色色的下拉菜单
+      侧边栏信息展示效果
+   网页特效
+      回到顶部效果
+      弹出层效果
+      网页广告特效
+      展开与收起效果
+      Tooltip浮动提示框效果
+
+pid：36    路径名：Android加薪利器——断点续传
+   踏上远征之基石
+      Android-重识Activity
+      Android-深入Activity
+      Android-精通Activity
+   第一关：装备
+      Android必学-BaseAdapter的使用与优化
+      Android-打造万能适配器
+   第二关：技能
+      Android中的Http通信
+      Android必学-AsyncTask基础
+      Android面试常客Handler详解
+   第三关：坐骑
+      Android攻城狮的第二门课（第3季）
+   放大招，秒BOSS
+      Android-Service系列之断点续传下载
+      Android-Service系列之多线程断点续传下载
+
+pid：37    路径名：C语言学习攻略
+   基础奠基
+      C语言入门
+   原理实践
+      Linux C语言编程基本原理与实践
+   核心秘籍
+      Linux C语言指针与内存
+      Linux C语言结构体
+
+pid：38    路径名：Tony老师聊shell
+   入门必备
+      Linux达人养成计划 I
+   语法基础
+      shell编程之变量
+      shell编程之运算符
+   技能提升
+      shell编程之环境变量配置文件
+      shell编程之正则表达式
+   实用案例
+      shell编程之条件判断与流程控制
+
+pid：39    路径名：Swift加薪利器-iOS动画特辑
+   初出茅庐
+      Swift Weather APP
+      一起来做价值百万的Apple Watch App：分歧终端机
+   游刃有余
+      iOS基础教程之界面初体验
+      iOS-动画入门
+      iOS-动画进阶
+   大显身手
+      iOS动画案例之会跳舞的界面(上)
+      iOS动画案例之会跳舞的界面(下)
+
+pid：40    路径名：Oracle数据库开发必备利器
+   入门——SQL基础
+      Oracle数据库开发必备利器之SQL基础
+      Oracle数据库开发利器之函数
+      Oracle高级查询
+   成长——数据库开发
+      Oracle数据库开发必备利器之PL/SQL基础
+      Oracle存储过程和自定义函数
+      Oracle触发器
+
+pid：42    路径名：C++远征攻略
+   远征前准备
+      C语言入门
+      Linux C语言编程基本原理与实践
+      Linux C语言指针与内存
+      Linux C语言结构体
+   远征起航
+      C++远征之起航篇
+      C++远征之离港篇
+   远征面向对象
+      C++远征之封装篇（上）
+      C++远征之封装篇（下）
+      C++远征之继承篇
+      C++远征之多态篇
+   远征模板
+      C++远征之模板篇
+
+pid：43    路径名：教你HTML5开发爱心鱼游戏
+   打好基础
+      JavaScript深入浅出
+   Canvas开发基础
+      Canvas绘图详解
+   大显身手
+      HTML5小游戏---爱心鱼（上）
+      HTML5小游戏---爱心鱼（下）
+
+pid：44    路径名：小慕感恩计划-实战Hot!!!
+   组件？天天见！
+      Android-重识Activity
+      Android-深入Activity
+      Android-精通Activity
+   UI-一个应用的颜值
+      Android-打造万能适配器
+      多种多样的App主界面Tab实现方法
+      Android UI模板设计
+      Android5.0新特性-Material Design
+   实践是检验真理的唯一方法
+      Android-节日短信送祝福(UI篇)
+      Android-节日短信送祝福（功能篇）
+
+pid：45    路径名：Linux运维工程师
+   入门必备
+      Linux达人养成计划 I
+      Linux 达人养成计划 II
+   常用操作与服务
+      Linux网络管理
+      Linux软件安装管理
+      Linux权限管理之基本权限
+      Linux权限管理之特殊权限
+      Linux中的计划任务之Crontab
+      Linux服务管理
+      Linux系统管理
+   运维自动化必备
+      shell编程之变量
+      shell编程之运算符
+      shell编程之环境变量配置文件
+      shell编程之正则表达式
+      shell编程之条件判断与流程控制
+      Shell典型应用之主控脚本实现
+      Shell典型应用之系统信息及运行状态获取
+      Shell典型应用之nginx和mysql应用状态分析
+      Shell典型应用之应用日志分析
+   企业级应用
+      Linux系统扫描技术及安全防范
+      用iptables搭建一套强大的安全防护盾
+      Linux智能DNS服务搭建之Bind服务
+      在Ubuntu Server下搭建LAMP环境
+
+pid：46    路径名：iOS苹果表开发攻略
+   初出茅庐
+      征战Objective-C
+      Objective-C面向对象初体验
+      iOS基础入门之Foundation框架初体验
+   小有所成
+      iOS基础教程之界面初体验
+      iOS-动画入门
+      iOS-动画进阶
+      一起来做价值百万的Apple Watch App：分歧终端机
+   大显身手
+      iOS-健康App系列之迈出你的第一步
+      iOS-健康App系列之脂肪你去哪儿
+      iOS-健康App系列之我走了多远
+
+pid：47    路径名：Cocos2d-x游戏开发快速入门
+   语言基础
+      C++远征之起航篇
+      C++远征之继承篇
+      C++远征之多态篇
+   初始游戏引擎
+      Cocos2d-x游戏开发初体验-C++篇
+      Cocos2d-x基础教程二-会动的时钟
+   游戏案例制作
+      新春特辑-Cocos抢红包
+      Cocos2d-x游戏之七夕女神抓捕计划
+
+pid：48    路径名：Hibernate开发宝典
+   入门必备
+      Hibernate初探之单表映射
+      Hibernate初探之一对多映射
+   高手进阶
+      Hibernate初探之多对多映射
+      HQL数据查询基础
+      Hibernate缓存策略
+      Hibernate注解
+   实战演练
+      使用Struts2+Hibernate开发学生信息管理功能
+
+pid：49    路径名：Linux shell运维实战
+   控制中心
+      Shell典型应用之主控脚本实现
+   状态监控
+      Shell典型应用之系统信息及运行状态获取
+      Shell典型应用之nginx和mysql应用状态分析
+   日志分析
+      Shell典型应用之应用日志分析
+
+pid：50    路径名：Android-微信热门功能合集
+   界面的进化
+      高仿微信5.2.1主界面及消息提醒
+      微信6.0主界面
+   热门功能赏析
+      Android-仿微信语音聊天
+      Android-仿微信图片选择器
+      Android高级特效-索引
+   说到微信，离不开分享
+      微信SDK-分享你的朋友圈
+
+pid：51    路径名：搞定python基础
+   开发环境搭建
+      Python开发环境搭建
+   基础知识
+      Python入门
+      python进阶
+      python装饰器
+
+pid：52    路径名：玩嗨Python进阶
+   文件处理
+      Python文件处理
+   错误和异常
+      Python错误和异常
+   正则表达式
+      python正则表达式
+
+pid：53    路径名：PHP微信公众平台开发攻略
+   初识微信公众平台
+      PHP实现微信公众平台开发—基础篇
+   深入微信公众平台
+      PHP实现微信公众平台开发—提升篇
+   攻克微信公众平台
+      PHP微信公众平台开发高级篇—生成二维码接口
+      PHP微信公众平台开发高级篇—模板消息接口
+      PHP微信公众平台开发高级篇—群发接口
+      PHP微信公众平台开发高级篇—自定义菜单
+      PHP微信公众平台开发高级篇—微信JS-SDK
+      PHP微信公众平台开发高级篇—网页授权接口
+
+pid：54    路径名：快速搞定PHP第三方登录
+   认识Oauth协议
+      PHP第三方登录—OAuth2.0协议
+   实战演练
+      PHP第三方登录—微博登录
+      PHP第三方登录—QQ登录
+
+pid：55    路径名：带你玩转Yii框架
+   初探YII框架
+      与《Yii框架》不得不说的故事—基础篇
+   深入YII的三大特性
+      与《Yii框架》不得不说的故事—高效篇
+      与《Yii框架》不得不说的故事—安全篇
+      与《Yii框架》不得不说的故事—扩展篇
+   提升逼格来看看YII开发工具
+      与《Yii框架》不得不说的故事—工具篇
+
+pid：56    路径名：探索Python世界
+   数据库操作
+      Python操作MySQL数据库
+   了解Django框架
+      django初体检
+   爬虫技术
+      Python开发简单爬虫
+
+pid：57    路径名：Android必备技能之基础组件
+   开发环境搭配模拟器
+      与Android Studio的第一次亲密接触
+      AndroidStudio技巧全集
+      超快的Android模拟器Genymotion
+   前台界面Activity五彩缤纷
+      Android-重识Activity
+      Android-深入Activity
+      Android-精通Activity
+   后台服务Service兢兢业业
+      Android-Service系列之Notification综合应用
+      Android-Service系列之断点续传下载
+      Android-Service系列之多线程断点续传下载
+
+pid：58    路径名：安卓特效合集豪华套餐
+   动画和自定义view的那些事
+      浅谈Android动画
+      Android属性动画赏析
+      Android面试解密-自定义View
+      Android-Widget桌面小组件
+   实现出来的那些神奇特效
+      Android-打造炫酷进度条
+      Android实现抽奖转盘
+      Android实现卫星菜单
+      千变万化的ViewPager切换动画
+   高大上的高级特效
+      Android高级特效-索引
+      Android高级特效-3D画廊
+      打造个性的图片预览与多点触控
+      QQ5.0侧滑菜单
+
+pid：59    路径名：搞定Java SSM框架开发
+   战斗伊始——Spring
+      Spring入门篇
+      Spring事务管理
+   转战阵地——SpringMVC
+      Spring MVC起步
+      Spring MVC拦截器
+   再下一城——MyBatis
+      通过自动回复机器人学Mybatis---基础版
+      通过自动回复机器人学Mybatis---加强版
+   终极目标——整合案例
+      Java高并发秒杀API之业务分析与DAO层
+      Java高并发秒杀API之Service层
+      Java高并发秒杀API之web层
+      Java高并发秒杀API之高并发优化
+
+pid：60    路径名：SSH框架探幽
+   初窥门径
+      Spring入门篇
+      Struts2入门
+      Hibernate初探之单表映射
+   略有小成
+      Spring事务管理
+      Struts2拦截器浅析
+      Hibernate缓存策略
+      Hibernate注解
+      Hibernate初探之一对多映射
+      Hibernate初探之多对多映射
+   融会贯通
+      基于SSH实现员工管理系统之框架整合篇
+      基于SSH实现员工管理系统之案例实现篇
+
+
